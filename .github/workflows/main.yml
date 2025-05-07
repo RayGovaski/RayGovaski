@@ -21,9 +21,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-          # Forçando tema para combinar com o GitHub
           theme: github-light
           theme_dark: github-dark
+        env:
+          SNK_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
       - name: enviar github-contribution-grid-snake.svg para o branch de saída
         uses: crazy-max/ghaction-github-pages@v3.1.0
