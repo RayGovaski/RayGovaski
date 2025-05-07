@@ -16,7 +16,7 @@
 
 #
 
-<img align="right" alt="" height="235px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHA1ZGYya3hpeHNmdWp3dmswcHZ0OHZobmZreW5lNGhia2VrMTI4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UHAYP0FxJOmFBuOiC2/giphy.gif">
+<img align="right" alt="" height="225px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHA1ZGYya3hpeHNmdWp3dmswcHZ0OHZobmZreW5lNGhia2VrMTI4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UHAYP0FxJOmFBuOiC2/giphy.gif">
 
 
 <h3 align="left">🎮 Conecte-se comigo!</h3>
