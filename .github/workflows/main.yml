@@ -23,7 +23,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg
           # Definindo o tema para o padrão do GitHub
           color_snake: '#6943AD'  # você pode customizar a cor da snake aqui
-          color_dots: '#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127'  # cores padrão do GitHub
+          color_dots: '#FFE500'  # cores padrão do GitHub
 
       - name: enviar github-contribution-grid-snake.svg para o branch de saída
         uses: crazy-max/ghaction-github-pages@v3.1.0
