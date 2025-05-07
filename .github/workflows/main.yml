@@ -1,30 +1,31 @@
-name: generate animation
-
+name: gerar animação
 on:
   schedule:
     - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
-      - main
+      - principal
 
 jobs:
-  generate:
+  gerar:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: gerar github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-          
-      - name: push github-contribution-grid-snake.svg to the output branch
+          # Definindo o tema para o padrão do GitHub
+          color_snake: '#6943AD'  # você pode customizar a cor da snake aqui
+          color_dots: '#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127'  # cores padrão do GitHub
+
+      - name: enviar github-contribution-grid-snake.svg para o branch de saída
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
