@@ -1,18 +1,18 @@
 <div align="center">
   <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&duration=1&pause=1000&color=6943AD&width=110&height=30&lines=Ray+Govaski" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&duration=1&pause=1000&color=DCBAFF&width=15&height=30&lines=%E2%98%BE" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=40&weight=500&duration=1&pause=1000&color=6943AD&width=220&height=60&lines=Ray+Govaski" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=40&weight=500&duration=1&pause=1000&color=DCBAFF&width=30&height=60&lines=%E2%98%BE" alt="Typing SVG" /></a>
   <div/>
   
   
   <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&duration=1&pause=1000&color=6943AD&center=true&width=140&lines=Desenvolvedor" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&duration=2000&pause=1000&color=DCBAFF&width=95&lines=Front-end;Back-end;Web" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&weight=500&duration=1&pause=1000&color=6943AD&center=true&width=205&height=50&lines=Desenvolvedor" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&weight=500&duration=2000&pause=1000&color=DCBAFF&width=140&height=50&lines=Front-end;Back-end;Web" alt="Typing SVG" /></a>
   </div>
 </div>
 
 
-<p align="center"> Estudante de Sistemas de Informação, apaixonado por tecnologia. <br/> Sempre aberto a novos desafios e oportunidades para crescer na área de tecnologia!
+<h4 align="center"> Estudante de Sistemas de Informação, apaixonado por tecnologia. <br/> Sempre aberto a novos desafios e oportunidades para crescer na área de tecnologia!
 
 #
 
