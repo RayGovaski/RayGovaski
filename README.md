@@ -16,35 +16,30 @@
 
 #
 
-<img align="right" alt="" height="200px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHA1ZGYya3hpeHNmdWp3dmswcHZ0OHZobmZreW5lNGhia2VrMTI4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UHAYP0FxJOmFBuOiC2/giphy.gif">
+<img align="right" alt="" height="235px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHA1ZGYya3hpeHNmdWp3dmswcHZ0OHZobmZreW5lNGhia2VrMTI4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UHAYP0FxJOmFBuOiC2/giphy.gif">
 
 
-<h3 align="left">🎮 Vamos conectar?</h3>
+<h3 align="left">🎮 Conecte-se comigo!</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/rhay.png/" target="_blank"><img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-9370DB?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/GUuEWpgq" target="_blank"><img src="https://img.shields.io/badge/Discord-9370DB?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="rayygovaski@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ray-govaski-329712273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 
-<h3 align="left">💜 Minhas Stacks</h3>
+<h3 align="left">✔️ Stacks</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img src="https://img.shields.io/badge/HTML5-%238A2BE2?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5 logo" />
+  <img src="https://img.shields.io/badge/CSS3-%239370DB?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo" />
+  <img src="https://img.shields.io/badge/JavaScript-%236A0DAD?style=for-the-badge&logo=javascript&logoColor=white" height="30" alt="javascript logo" />
+  <img src="https://img.shields.io/badge/React-%237B68EE?style=for-the-badge&logo=react&logoColor=white" height="30" alt="react logo" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-%238A2BE2?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python logo" />
+  <img src="https://img.shields.io/badge/Java-%239370DB?style=for-the-badge&logo=java&logoColor=white" height="30" alt="java logo" />
+  <img src="https://img.shields.io/badge/MySQL-%236A0DAD?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo" />
 </div>
 
 #
@@ -58,8 +53,4 @@
 
 #
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayGovaski/RayGovaski/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayGovaski/RayGovaski/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/RayGovaski/RayGovaski/output/github-contribution-grid-snake.svg">
-</picture>
+
