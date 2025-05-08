@@ -22,22 +22,22 @@
 <h3 align="left">🎮 Conecte-se comigo!</h3>
 
 <div align="left">
-  <a href="https://www.instagram.com/rhay.png/" target="_blank"><img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/rhay.png/" target="_blank"><img src="https://img.shields.io/badge/Instagram-793BB3?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://discord.gg/GUuEWpgq" target="_blank"><img src="https://img.shields.io/badge/Discord-9370DB?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="rayygovaski@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ray-govaski-329712273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ray-govaski-329712273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 
 <h3 align="left">✔️ Stacks</h3>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-%238A2BE2?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5 logo" />
+  <img src="https://img.shields.io/badge/HTML5-%23793BB3?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5 logo" />
   <img src="https://img.shields.io/badge/CSS3-%239370DB?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo" />
   <img src="https://img.shields.io/badge/JavaScript-%236A0DAD?style=for-the-badge&logo=javascript&logoColor=white" height="30" alt="javascript logo" />
-  <img src="https://img.shields.io/badge/React-%237B68EE?style=for-the-badge&logo=react&logoColor=white" height="30" alt="react logo" />
+  <img src="https://img.shields.io/badge/React-%239370DB?style=for-the-badge&logo=react&logoColor=white" height="30" alt="react logo" />
   <br/>
-  <img src="https://img.shields.io/badge/Python-%238A2BE2?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python logo" />
+  <img src="https://img.shields.io/badge/Python-%23793BB3?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python logo" />
   <img src="https://img.shields.io/badge/Java-%239370DB?style=for-the-badge&logo=java&logoColor=white" height="30" alt="java logo" />
   <img src="https://img.shields.io/badge/MySQL-%236A0DAD?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo" />
 </div>
