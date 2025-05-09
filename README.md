@@ -24,7 +24,7 @@
 <div align="left">
   <a href="https://www.instagram.com/rhay.png/" target="_blank"><img src="https://img.shields.io/badge/Instagram-793BB3?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://discord.gg/GUuEWpgq" target="_blank"><img src="https://img.shields.io/badge/Discord-9370DB?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="rayygovaski@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:rayygovaski@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ray-govaski-329712273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
