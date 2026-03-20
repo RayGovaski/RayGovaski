@@ -12,7 +12,7 @@
 </div>
 
 
-<h4 align="center"> Estudante de Sistemas de Informação, apaixonado por tecnologia. <br/> Sempre aberto a novos desafios e oportunidades para crescer na área de tecnologia!
+<h4 align="center"> Estudante de Sistemas de Informação, apaixonado por tecnologia. <br/> Sempre aberto a novos desafios e oportunidades para crescer na área!
 
 #
 
